@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\bin\Debug\program tugas akhir.exe.config
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\bin\Debug\program tugas akhir.exe
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\bin\Debug\program tugas akhir.pdb
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\obj\Debug\program tugas akhir.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\obj\Debug\program_tugas_akhir.Form1.resources
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\obj\Debug\program_tugas_akhir.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\obj\Debug\program tugas akhir.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\obj\Debug\program tugas akhir.exe
+d:\documents\visual studio 2015\Projects\program tugas akhir\program tugas akhir\obj\Debug\program tugas akhir.pdb
